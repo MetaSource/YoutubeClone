@@ -2,7 +2,6 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 //box is a simple div element 
 import {Box} from '@mui/material'
 import {Navbar, Feed, VideoDetail, ChannelDetail, SearchFeed} from "./components";
-import {Feed} from "@mui/icons-material"
 
 
 const App = () => {
