@@ -1,3 +1,7 @@
+#Hosting 
+
+This demo project is hosted @ https://ytclonejsx.web.app using firebase hosting! Enjoy!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
